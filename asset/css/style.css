@@ -1,0 +1,40 @@
+#navbarSection {
+  background: url("../img/banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#navbarSection .navOverlay {
+  background-color: #43413d;
+  opacity: 68%;
+  height: 625px;
+}
+
+#navbarSection .navOverlay nav {
+  margin-bottom: 400px;
+}
+
+#navbarSection .navOverlay .carousel-caption h6 {
+  color: white;
+  font-family: "Sharp";
+  font-size: 36px;
+  font-weight: 400;
+}
+
+#navbarSection .navOverlay .carousel-caption h1 {
+  font-family: "Myriad Pro";
+  color: white;
+  font-size: 52px;
+  font-weight: 700;
+}
+
+#navbarSection .navOverlay .carousel-caption button {
+  background-color: #998675;
+}
+
+#webSection {
+  padding: 79px 0px 79px 0px;
+  background: #ffffff;
+}
+/*# sourceMappingURL=style.css.map */

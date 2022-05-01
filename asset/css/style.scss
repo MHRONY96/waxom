@@ -1,0 +1,44 @@
+// nav section part start
+#navbarSection {
+  background: url("../img/banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  .navOverlay {
+    background-color: #43413d;
+    opacity: 68%;
+    height: 625px;
+
+    nav {
+      margin-bottom: 400px;
+    }
+    .carousel-caption {
+      h6 {
+        color: white;
+        font-family: "Sharp";
+        font-size: 36px;
+        font-weight: 400;
+      }
+      h1 {
+        font-family: "Myriad Pro";
+        color: white;
+        font-size: 52px;
+        font-weight: 700;
+      }
+
+      button {
+        background-color: #998675;
+      }
+    }
+  }
+}
+
+// nav section part end
+
+// webSection part start
+#webSection {
+  padding: 79px 0px 79px 0px;
+  background: #ffffff;
+}
+// webSection part end
