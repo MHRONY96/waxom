@@ -33,8 +33,88 @@
   background-color: #998675;
 }
 
+#webSection .webDesing img, #webSection .department img, #webSection .customization img, #webSection .marketing img {
+  margin-left: 90px;
+  margin-bottom: 28px;
+}
+
+#webSection .webDesing h4, #webSection .department h4, #webSection .customization h4, #webSection .marketing h4 {
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+#webSection .webDesing p, #webSection .department p, #webSection .customization p, #webSection .marketing p {
+  line-height: 25px;
+  margin-bottom: 28px;
+  text-align: justify;
+}
+
+#webSection .webDesing hr, #webSection .department hr, #webSection .customization hr, #webSection .marketing hr {
+  padding: 2px;
+  width: 80px;
+  margin-left: 70px;
+}
+
 #webSection {
   padding: 79px 0px 79px 0px;
   background: #ffffff;
+}
+
+#webSection .webDesing hr {
+  color: #f1eee9;
+}
+
+#webSection .department h4 {
+  color: #c7b299;
+}
+
+#webSection .customization hr {
+  color: #f1eee9;
+}
+
+#webSection .marketing hr {
+  color: #f1eee9;
+}
+
+#waxomRealization {
+  padding-top: 82px;
+  background-color: #fbfaf8;
+}
+
+#waxomRealization h4 {
+  font-family: "occur";
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 28px;
+}
+
+#waxomRealization p {
+  color: black;
+  padding: 0px 250px;
+  margin-bottom: 38px;
+}
+
+#waxomRealization .browser {
+  padding-top: 78px;
+  position: relative;
+}
+
+#waxomRealization .browser .browser_left img {
+  position: absolute;
+  left: -70px;
+  z-index: 0;
+}
+
+#waxomRealization .browser .browser_one img {
+  position: absolute;
+  top: -4px;
+  right: 160px;
+  z-index: 1;
+}
+
+#waxomRealization .browser .browser_right img {
+  position: absolute;
+  left: 390px;
+  z-index: 0;
 }
 /*# sourceMappingURL=style.css.map */
